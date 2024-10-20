@@ -1,0 +1,28 @@
+
+Customer ID: 1
+Name: tri
+Age: 24
+Mobile Number: 823021388
+Address: hihihehe
+Gender: Male
+
+Customer ID: 19058
+Name: Trisss
+Age: 23
+Mobile Number: 123456789
+Address: hahahohohihi
+Gender: Male
+
+Customer ID: 19001
+Name: HTA
+Age: 23
+Mobile Number: 8230213888
+Address: hihihoho
+Gender: Female
+
+Customer ID: 2
+Name: nottris
+Age: 21
+Mobile Number: 0823021388
+Address: hihihaha
+Gender: Male
